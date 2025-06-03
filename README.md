@@ -51,14 +51,6 @@ Bu proje, [BLM463] Veri Madenciliği dersi kapsamında hazırlanmış olup, Wisc
 - `BLM463_Proje_MerveGok_21360859027.pdf`: Rapor&Dökümantasyon.
 - `README.md`: Bu dosya.
 
-## 🎥 Sunum Videosu
-
-📺 [YouTube Video Linki – Proje Tanıtımı ve Model Açıklaması](https://youtu.be/XXXXXXXXXXX)  
-> (Videoda proje anlatımı, model mantığı, kod detayları ve sonuç görselleştirmeleri bulunmaktadır.)
-
-## 🔗 GitHub Kod Linki
-
-📌 [GitHub Proje Deposu](https://github.com/kullaniciadi/veri-madenciligi-kanser-projesi)
 
 
 
